@@ -1,0 +1,20 @@
+{
+    "name": "M-Check : ระบบเช็คอิน",
+    "short_name": "M-Check",
+    "start_url": "/M-Check.tech/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6200ea",
+    "icons": [
+        {
+            "src": "/M-Check.tech/document_5591641.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/M-Check.tech/document_5591641.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
